@@ -27,7 +27,7 @@ epochs = 100 ##number of epochs
 
 ##num of train pics, and directory
 train_len = 87000
-train_dir = 'asl_alphabet_train'
+train_dir = 'dataset/asl_alphabet_train'
 
 ##map each folder with pictures to a number
 def get_data(folder):
