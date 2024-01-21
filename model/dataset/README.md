@@ -1,2 +1,2 @@
 # Dataset folder
-Add your ASL
+Add your `asl_alphabet_train` folder to this directory.
