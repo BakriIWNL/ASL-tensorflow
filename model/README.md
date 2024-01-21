@@ -20,4 +20,10 @@ To start, ensure that 'model.py' is executable, and run
 ---
 ## Adding the dataset
 
-Head into the `dataset` directory, and add the installed asl_
+Head into the `dataset` directory, and add the installed `asl_alphabet_train` to it, this is **Required** to start training the model.
+
+---
+## Changing the code
+
+Changing content of the code is encouraged, this is my personal testing and the best results I could reach given my hardware `GTX 1660 Super`, so all variables are
+clear and easy to see to change and play around with, alongside comments that explain the entire code.
